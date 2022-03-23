@@ -1,6 +1,4 @@
-Hello, I am precisepolygon.
-I am learning how to program.
-Hope you have a wonderful day. ☕ 
+Hello. ☕ 
 
 <!---
 precisepolygon/precisepolygon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
